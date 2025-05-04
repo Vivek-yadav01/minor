@@ -11,8 +11,8 @@
   "dependencies": {
     "@react-google-maps/api": "^2.20.5",
     "firebase": "^11.2.0",
-    "next": "^13.0.0",  // Update to the latest version of Next.js
-    "react": "^18.0.0",  // Ensure React version is compatible with Next.js
+    "next": "^13.0.0",
+    "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
