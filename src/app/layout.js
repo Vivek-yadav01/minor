@@ -1,3 +1,5 @@
+'use client';  // Add this line
+
 import { useEffect } from 'react';
 import './globals.css';
 
