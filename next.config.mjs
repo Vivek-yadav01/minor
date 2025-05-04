@@ -1,5 +1,5 @@
 export default {
   experimental: {
-    outputStandalone: true,
+    output: "standalone",
   },
 };
