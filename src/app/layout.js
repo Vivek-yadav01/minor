@@ -1,4 +1,4 @@
-'use client';  // Add this line
+'use client';  // This must be the first line in your file
 
 import { useEffect } from 'react';
 import './globals.css';
